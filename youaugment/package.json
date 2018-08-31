@@ -1,0 +1,16 @@
+{
+    "name": "com.youaugment.app",
+    "version": "1.0.1",
+    "displayName": "youaugment app",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        }
+    },
+    "dependencies": {
+        "cordova-plugin-whitelist": "1"
+    }
+}
